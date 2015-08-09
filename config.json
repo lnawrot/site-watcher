@@ -1,0 +1,11 @@
+{
+	"dbConnection" : {
+		"host" : "localhost",
+		"port" : 27017,
+		"name" : "test"
+	},
+
+	"server" : {
+		"port" : 3000
+	}, 
+}
